@@ -21,27 +21,31 @@ Construyo sistemas que reemplazan el Excel y el papel en áreas de **Recursos Hu
 
 ### 📍 [TareoApp](https://github.com/DRXD13/TareoApp) · Android
 Tareo y asistencia para operaciones de campo (agro, construcción, logística). Marcaje por GPS dentro de una geocerca, detección de GPS falso, funcionamiento **sin señal** y registro de cuadrillas por DNI o código QR.
+
 `Kotlin` `Jetpack Compose` `MVVM + Clean Architecture` `Room` `WorkManager` `Hilt`
 
 ### 💼 [Sistema de Planillas](https://github.com/DRXD13/SISTEMA_PLANILLAS) · Web · [Ver demo](https://sistema-planillas.onrender.com)
 Planilla mensual de una municipalidad distrital: prorrateo por tramos laborales, AFP/ONP con tasas actualizadas automáticamente desde la SBS, renta de 5ta, boletas, exportación a Excel, auditoría de cambios y cierre de planilla.
+
 `Node.js` `Express` `MySQL` `JWT` `Puppeteer` `Tailwind CSS`
 
 ### 🍽️ [Restaurante Retis](https://github.com/DRXD13/restaurante-retis) · Web · [Ver sitio](https://restaurante-retis.vercel.app)
 Web de una cevichería en Pisco con carta, pedidos y reservas enviados por WhatsApp, horario automático con hora de Perú y SEO para Google.
+
 `React` `TypeScript` `Vite` `Tailwind CSS`
 
 ### 🕒 [Sistema de Tareo y Control](https://github.com/DRXD13/sistema-tareo-control) · Web
 Versión web del control de tareo con arquitectura MVC, desplegada con Docker.
+
 `PHP` `MySQL` `Docker`
 
 ## Tecnologías
 
-**Backend:** Java · Spring Boot · Node.js · Express · PHP
-**Frontend:** React · TypeScript · JavaScript · Tailwind CSS
-**Móvil:** Kotlin · Jetpack Compose
-**Bases de datos:** MySQL
-**Herramientas:** Git · Docker · Linux · Vercel · Render · IntelliJ IDEA · Android Studio
+- **Backend:** Java · Spring Boot · Node.js · Express · PHP
+- **Frontend:** React · TypeScript · JavaScript · Tailwind CSS
+- **Móvil:** Kotlin · Jetpack Compose
+- **Bases de datos:** MySQL
+- **Herramientas:** Git · Docker · Linux · Vercel · Render · IntelliJ IDEA · Android Studio
 
 ---
 
