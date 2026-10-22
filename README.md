@@ -23,7 +23,6 @@ Construyo sistemas que reemplazan el Excel y el papel en Recursos Humanos y oper
 - 📜 Conozco las reglas laborales peruanas que un sistema de planillas tiene que cumplir: AFP/ONP, renta de 5ta, EsSalud y regímenes CAS y obrero.
 - 🛠️ También doy soporte IT, así que diseño pensando en quien usa el sistema todos los días.
 - 🤖 Automatizo procesos manuales con scripts, web scraping y APIs de IA.
-- 🌱 Estoy aprendiendo inglés por mi cuenta.
 
 ## 🚀 Proyectos destacados
 
