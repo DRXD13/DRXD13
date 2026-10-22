@@ -21,6 +21,8 @@ Construyo sistemas que reemplazan el Excel y el papel en Recursos Humanos y oper
 - 🏛️ Hice prácticas en una **municipalidad**, donde desarrollé un sistema de planillas para Recursos Humanos.
 - 🏭 Hice prácticas en una **empresa de Ica**, donde desarrollé un sistema de asistencia.
 - 📜 Conozco las reglas laborales peruanas que un sistema de planillas tiene que cumplir: AFP/ONP, renta de 5ta, EsSalud y regímenes CAS y obrero.
+- 🛠️ También doy soporte IT, así que diseño pensando en quien usa el sistema todos los días.
+- 🤖 Automatizo procesos manuales con scripts, web scraping y APIs de IA.
 - 🌱 Estoy aprendiendo inglés por mi cuenta.
 
 ## 🚀 Proyectos destacados
@@ -31,11 +33,11 @@ Tareo y asistencia para operaciones de campo (agro, construcción, logística). 
 
 <a href="https://github.com/DRXD13/TareoApp"><img src="https://raw.githubusercontent.com/DRXD13/TareoApp/master/docs/banner.png" alt="Pantallas de TareoApp" width="100%"></a>
 
-`Kotlin` `Jetpack Compose` `MVVM + Clean Architecture` `Room` `WorkManager` `Hilt`
+`Kotlin` `Jetpack Compose` `MVVM + Clean Architecture` `Room` `WorkManager` `Hilt` · 44 pruebas unitarias
 
 ### 💼 [Sistema de Planillas](https://github.com/DRXD13/SISTEMA_PLANILLAS) · Web · [Ver demo](https://sistema-planillas.onrender.com)
 
-Planilla mensual de una municipalidad distrital: prorrateo por tramos laborales, AFP/ONP con tasas actualizadas automáticamente desde la SBS, renta de 5ta, boletas, exportación a Excel, auditoría de cambios y cierre de planilla.
+Planilla mensual de una municipalidad distrital para regímenes Empleado, CAS y Obrero: prorrateo por días computables (ingresos, ceses y reincorporaciones), faltas y tardanzas, AFP/ONP con comisiones actualizadas automáticamente desde la SBS, renta de 5ta por tramos de UIT, EsSalud, judiciales, préstamos y cuota sindical. Genera boletas, exporta a Excel, audita cada cambio y cierra la planilla como copia versionada. Login en dos pasos con código por correo.
 
 <a href="https://sistema-planillas.onrender.com"><img src="https://raw.githubusercontent.com/DRXD13/portafolio/main/assets/planillas-calculo.png" alt="Procesamiento de planilla" width="100%"></a>
 
@@ -51,18 +53,20 @@ Planilla mensual de una municipalidad distrital: prorrateo por tramos laborales,
 <td width="50%">
 Web de una cevichería en Pisco con carta, pedidos y reservas enviados por WhatsApp, horario automático con hora de Perú y SEO para Google.
 <br><br>
-<code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code>
+<code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Vitest</code>
+<br><br>
+148 pruebas automáticas · Responsive y accesible
 </td>
 </tr>
 </table>
 
-### 🕒 [Sistema de Tareo y Control](https://github.com/DRXD13/sistema-tareo-control) · Web
+### 🕒 [Sistema de Tareo y Control](https://github.com/DRXD13/sistema-tareo-control) · Web · [Ver demo](https://sistema-tareo-control.onrender.com)
 
-Asistencia, tareo diario y cálculo de jornales para cuadrillas de campo, con bitácora de acciones y exportación a Excel.
+Control diario de personal de campo organizado por áreas, cargos y cuadrillas: asistencia (puntual, tardanza, falta justificada, descanso médico, permiso), tareo diario por actividad y horas, cálculo de jornales por rango de fechas y cierre al historial contable. Incluye panel analítico, bitácora de acciones y exportación a Excel.
 
 <a href="https://github.com/DRXD13/sistema-tareo-control"><img src="https://raw.githubusercontent.com/DRXD13/portafolio/main/assets/tareo-panel.png" alt="Panel de control del Sistema de Tareo" width="100%"></a>
 
-`PHP` `MySQL` `Bootstrap` `Docker`
+`PHP` `MySQL` `Bootstrap` `Chart.js` `Docker`
 
 ## 🛠️ Tecnologías
 
