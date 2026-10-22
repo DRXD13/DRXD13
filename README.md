@@ -2,10 +2,10 @@
 
 # Hola, soy Dangelo Retis 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Desarrollador+de+sistemas+de+gesti%C3%B3n;Planillas+%C2%B7+Asistencia+%C2%B7+Tareo+de+campo;Spring+Boot+%C2%B7+Node.js+%C2%B7+Kotlin+%C2%B7+React" alt="Desarrollador de sistemas de gestión" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Desarrollador+Full+Stack;Web+%C2%B7+M%C3%B3vil+%C2%B7+Bases+de+datos+%C2%B7+Automatizaci%C3%B3n;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Desarrollador Full Stack" />
 
-**Estudiante de Ingeniería de Sistemas (X ciclo) · Pisco, Ica, Perú**
-Construyo sistemas que reemplazan el Excel y el papel en Recursos Humanos y operaciones de campo.
+**Estudiante de Ingeniería de Sistemas (X ciclo) · Pisco, Ica, Perú**<br>
+Construyo aplicaciones web y móviles que resuelven problemas reales de un negocio, de la base de datos al despliegue.
 
 <a href="https://portafolio-phi-roan-28.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"></a>
 <a href="https://www.linkedin.com/in/dangelo-retis-cabrera-a2b5a7370/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,11 +18,12 @@ Construyo sistemas que reemplazan el Excel y el papel en Recursos Humanos y oper
 
 ## 🧭 Sobre mí
 
-- 🏛️ Hice prácticas en una **municipalidad**, donde desarrollé un sistema de planillas para Recursos Humanos.
-- 🏭 Hice prácticas en una **empresa de Ica**, donde desarrollé un sistema de asistencia.
-- 📜 Conozco las reglas laborales peruanas que un sistema de planillas tiene que cumplir: AFP/ONP, renta de 5ta, EsSalud y regímenes CAS y obrero.
-- 🛠️ También doy soporte IT, así que diseño pensando en quien usa el sistema todos los días.
-- 🤖 Automatizo procesos manuales con scripts, web scraping y APIs de IA.
+- 💻 Desarrollo sistemas **completos**: backend, frontend, apps Android, bases de datos y despliegue en la nube.
+- 🧩 He construido para rubros distintos: **gestión de personal** (planillas y tareo), **restaurantes** (pedidos y reservas por WhatsApp) y **operaciones de campo** (app con GPS que funciona sin señal).
+- 🏛️ Mis prácticas pre-profesionales, en una **municipalidad** y en **WISSENLP S.A.C.**, terminaron en sistemas reales en producción.
+- 🔍 Antes de programar, entiendo el proceso del negocio. Así aprendí reglas tan específicas como las de la planilla peruana, y así abordo cualquier rubro nuevo.
+- 🤖 Automatizo procesos manuales con scripts, web scraping y APIs de IA. También doy soporte IT.
+- 🌱 Siempre estoy aprendiendo. Ahora mismo: **Angular, Next.js, React Native** e inglés.
 
 ## 🚀 Proyectos destacados
 
@@ -79,6 +80,6 @@ Control diario de personal de campo organizado por áreas, cargos y cuadrillas: 
 
 <div align="center">
 
-**¿Tu empresa todavía controla asistencia o planillas en Excel?** [Escríbeme](mailto:retisdangelo@gmail.com).
+**¿Tienes un proceso que automatizar o un sistema por construir?** [Escríbeme](mailto:retisdangelo@gmail.com).
 
 </div>
