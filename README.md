@@ -37,6 +37,8 @@ Tareo y asistencia para operaciones de campo (agro, construcción, logística). 
 
 Planilla mensual de una municipalidad distrital: prorrateo por tramos laborales, AFP/ONP con tasas actualizadas automáticamente desde la SBS, renta de 5ta, boletas, exportación a Excel, auditoría de cambios y cierre de planilla.
 
+<a href="https://sistema-planillas.onrender.com"><img src="https://raw.githubusercontent.com/DRXD13/portafolio/main/assets/planillas-calculo.png" alt="Procesamiento de planilla" width="100%"></a>
+
 `Node.js` `Express` `MySQL` `JWT` `Puppeteer` `Tailwind CSS`
 
 ### 🍽️ [Restaurante Retis](https://github.com/DRXD13/restaurante-retis) · Web · [Ver sitio](https://restaurante-retis.vercel.app)
@@ -57,6 +59,8 @@ Web de una cevichería en Pisco con carta, pedidos y reservas enviados por Whats
 ### 🕒 [Sistema de Tareo y Control](https://github.com/DRXD13/sistema-tareo-control) · Web
 
 Asistencia, tareo diario y cálculo de jornales para cuadrillas de campo, con bitácora de acciones y exportación a Excel.
+
+<a href="https://github.com/DRXD13/sistema-tareo-control"><img src="https://raw.githubusercontent.com/DRXD13/portafolio/main/assets/tareo-panel.png" alt="Panel de control del Sistema de Tareo" width="100%"></a>
 
 `PHP` `MySQL` `Bootstrap` `Docker`
 
